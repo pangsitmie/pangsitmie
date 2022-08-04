@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pangsitmie
-- 👀 I’m interested in Software Engineering, Data Science and Crypto
-- 🌱 I’m currently learning to integrate data science and crypto
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering, Android development, Data Science and Crypto
 - 📫 How to reach me https://www.linkedin.com/in/jeriel-isaiah-layantara/
 
 <!---
